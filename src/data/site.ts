@@ -1,4 +1,4 @@
-export const site = {
+﻿export const site = {
     "domain":  "soccorsostradaletrieste.it",
     "template":  "catalyst",
     "description":  "Carroattrezzi a Trieste e soccorso stradale a Trieste: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
@@ -145,5 +145,6 @@ export const faqs = [
         "answer":  "Sì, il servizio di soccorso stradale è organizzato per richieste urgenti durante tutta la giornata, compresi orari serali, notturni e festivi."
     }
 ] as const
+
 
 
