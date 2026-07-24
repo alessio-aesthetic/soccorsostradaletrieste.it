@@ -1,4 +1,4 @@
-﻿export const site = {
+export const site = {
     "domain":  "soccorsostradaletrieste.it",
     "template":  "catalyst",
     "description":  "Carroattrezzi a Trieste e soccorso stradale a Trieste: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
