@@ -5,7 +5,7 @@ export const site = {
     "tel":  "+390401802385",
     "city":  "Trieste",
     "name":  "Carroattrezzi Trieste",
-    "address":  "Via Flavia, 92 - 34148 Trieste TS",
+    "address":  "Via Alessandro Malaspina, 3 - 34147 Trieste TS",
     "title":  "Carroattrezzi a Trieste 24H | Soccorso stradale",
     "phone":  "040 180 2385",
     "email":  "assistenza@soccorsostradaletrieste.it"
