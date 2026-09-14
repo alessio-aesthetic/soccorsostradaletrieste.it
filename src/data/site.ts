@@ -2,12 +2,12 @@ export const site = {
     "domain":  "soccorsostradaletrieste.it",
     "template":  "catalyst",
     "description":  "Carroattrezzi a Trieste e soccorso stradale a Trieste: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
-    "tel":  "+390401802385",
+    "tel":  "+390405890319",
     "city":  "Trieste",
     "name":  "Carroattrezzi Trieste",
     "address":  "Via Alessandro Malaspina, 3 - 34147 Trieste TS",
     "title":  "Carroattrezzi a Trieste 24H | Soccorso stradale",
-    "phone":  "040 180 2385",
+    "phone":  "040 5890319",
     "email":  "assistenza@soccorsostradaletrieste.it"
 } as const
 
@@ -145,6 +145,7 @@ export const faqs = [
         "answer":  "Sì, il servizio di soccorso stradale è organizzato per richieste urgenti durante tutta la giornata, compresi orari serali, notturni e festivi."
     }
 ] as const
+
 
 
 
