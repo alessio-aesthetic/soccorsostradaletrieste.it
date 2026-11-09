@@ -5,7 +5,6 @@ export const site = {
     "tel":  "+390405890319",
     "city":  "Trieste",
     "name":  "Carroattrezzi Trieste",
-    "address":  "Via Alessandro Malaspina, 3 - 34147 Trieste TS",
     "title":  "Carroattrezzi a Trieste 24H | Soccorso stradale",
     "phone":  "040 5890319",
     "email":  "assistenza@soccorsostradaletrieste.it"
