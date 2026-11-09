@@ -60,6 +60,6 @@ export default function TriestePremiumHome() {
 
     <section className={styles.closing}><div className={styles.closingOrb} /><p className={styles.eyebrow}>Hai bisogno di assistenza?</p><h2>Torniamo<br /><em>in movimento.</em></h2><p>Parlaci della tua situazione. Da li si costruisce un recupero chiaro, sicuro e adatto al tuo veicolo.</p><a href={callHref}>Chiama ora <b>{site.phone}</b><span>→</span></a></section>
 
-    <footer className={styles.footer}><div><img src="/images/brand-trieste.png" alt={site.name} /><p>Soccorso stradale e recupero veicoli a Trieste e provincia.</p></div><div><b>Contatti</b><a href={callHref}>{site.phone}</a><a href={'mailto:' + site.email}>{site.email}</a><p>{site.address}</p></div><div><b>Servizi</b><Link href="/servizi/soccorso-stradale-24-ore/">Soccorso stradale</Link><Link href="/servizi/traino-auto/">Traino auto</Link><Link href="/servizi/recupero-auto-incidentata/">Recupero veicoli</Link></div></footer>
+    <footer className={styles.footer}><div><img src="/images/brand-trieste.png" alt={site.name} /><p>Soccorso stradale e recupero veicoli a Trieste e provincia.</p></div><div><b>Contatti</b><a href={callHref}>{site.phone}</a><a href={'mailto:' + site.email}>{site.email}</a></div><div><b>Servizi</b><Link href="/servizi/soccorso-stradale-24-ore/">Soccorso stradale</Link><Link href="/servizi/traino-auto/">Traino auto</Link><Link href="/servizi/recupero-auto-incidentata/">Recupero veicoli</Link></div></footer>
   </main>
 }
